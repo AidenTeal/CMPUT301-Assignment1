@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ateal-MyBookWishlist</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="your_book_wishlist">Your Book Wishlist</string>
+    <string name="unread">Unread</string>
+    <string name="read">Read</string>
+    <string name="book_title_string">Book Title: %s</string>
+    <string name="book_author_string">Author: %s</string>
+    <string name="book_genre_string">Genre: %s</string>
+    <string name="book_publication_year_string">Publication Year: %d</string>
+    <string name="book_status_string">Book Status: %s</string>
+    <string name="back_to_wishlist">Back to wishlist</string>
+    <string name="edit_book">Edit Book</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="enter_book_publication_year">Enter Book Publication Year</string>
+    <string name="enter_book_genre">Enter Book Genre</string>
+    <string name="enter_book_author">Enter Book Author</string>
+    <string name="enter_book_title">Enter Book Title</string>
+    <string name="add_book_dialog_title">Add Book</string>
+    <string name="edit_book_dialog_title">Edit Book</string>
+    <string name="book_details_one_string">%s written by %s</string>
+    <string name="book_details_two_string">Genre: %s, Status: %s</string>
+</resources>
